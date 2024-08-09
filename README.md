@@ -1,10 +1,4 @@
--  Hi, I’m @kinubiyosoy
--  I’m interested in a
--  I’m currently learning a
--  I’m looking to collaborate on a
--  How to reach me a
--  Pronouns: a
--  Fun fact: a
+Bom,eu não sei o que estou fazendo,ja que estou aprendendo XD
 
 <!---
 kinubiyosoy/kinubiyosoy is a special repository because its `README.md` (this file) appears on your GitHub profile.
