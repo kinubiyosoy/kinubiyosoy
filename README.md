@@ -1,1 +1,1 @@
-Bom, eu não sei o que estou fazendo ja que estou aprendendo..
+Bom, eu não sei o que estou fazendo
